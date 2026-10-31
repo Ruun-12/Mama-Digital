@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MamaDigital" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorSecondary">@color/orange_accent</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+
+    <style name="Theme.MamaDigital" parent="Base.Theme.MamaDigital" />
+</resources>
